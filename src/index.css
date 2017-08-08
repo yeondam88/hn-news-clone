@@ -36,3 +36,7 @@ button:hover {
 *:focus {
   outline: none;
 }
+
+.fa-loading {
+  font-size: 30px;
+}
